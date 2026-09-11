@@ -1,8 +1,8 @@
 const CACHE = 'treino-v1';
 const ASSETS = [
-  '/',
-  '/index.html',
-  '/manifest.json'
+  '/vktreino/',
+  '/vktreino/index.html',
+  '/vktreino/manifest.json'
 ];
 
 self.addEventListener('install', e => {
